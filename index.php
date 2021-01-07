@@ -217,6 +217,11 @@ session_start();
                             <img src="Kaygo images\Flags icon\USA_-512.png" style="height:20px;width:20px;"></img>
                             <a href="" style="color:black;">English</a>
                         </div>
+                    
+                    <div>
+                            <img src="Kaygo images\Flags icon\USA_-512.png" style="height:20px;width:20px;"></img>
+                            <a href="" style="color:black;">Latin</a>
+                        </div>
 
                         <div>
                             <img src="Kaygo images\Flags icon\China-512.png" style="height:20px;width:20px;"></img>
