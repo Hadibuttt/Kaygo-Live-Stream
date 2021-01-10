@@ -138,7 +138,7 @@ session_start();
                             <div style="font-size:21px;margin-left:6px;">Registration</div>
                         </div>
                         <div class="modal-body">
-                            <div style="font-size:16px;margin-left:22px;color:black;">Register with email</div>
+                            <div style="font-size:16px;margin-left:22px;color:black;">Register with E-Mail</div>
                             <br>
                             <div>
                                 <form method="POST">
