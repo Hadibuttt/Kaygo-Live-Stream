@@ -208,7 +208,7 @@ session_start();
             <!--Start Language-->
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                 <div class="dropdown">
-                    <a href="" data-toggle="dropdown" style="text-decoration:none;color:black;"> | Language |
+                    <a href="" data-toggle="dropdown" style="text-decoration:none;color:black;"> | Languages |
                         <span class="caret"></span>
                     </a>
                     <div class="dropdown-menu">
