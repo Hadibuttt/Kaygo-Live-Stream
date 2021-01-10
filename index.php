@@ -53,7 +53,7 @@ session_start();
                         </div>
 
                         <div class="modal-body">
-                            <div style="font-size:16px;margin-left:22px;color:black;">Sign In with email</div>
+                            <div style="font-size:16px;margin-left:22px;color:black;">Sign In with E-Mail</div>
                             <br>
 
                             <div>
