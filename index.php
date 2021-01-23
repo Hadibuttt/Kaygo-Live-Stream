@@ -249,11 +249,6 @@ session_start();
                         </div>
 
                         <div>
-                            <img src="Kaygo images\Flags icon\Flag_of_Russia_-_Circle-512.png" style="height:20px;width:20px;"></img>
-                            <a href="" style="color:black;">Pусский</a>
-                        </div>
-
-                        <div>
                             <img src="Kaygo images\Flags icon\images.png" style="height:20px;width:20px;"></img>
                             <a href="" style="color:black;">Español</a>
                         </div>
