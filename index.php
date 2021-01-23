@@ -723,7 +723,7 @@ deepskyblue;width:300px;height:60px;"> GET FREE TRIAL NOW </button>
     </div>
 
 <!--Kaygo No sign up needed-->
-<p style="font-size:16px;text-align:center;">NO SIGN UP</p>
+<p style="font-size:16px;text-align:center;">NO SIGN UP NEEDED</p>
 
 
 
