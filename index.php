@@ -254,11 +254,6 @@ session_start();
                         </div>
 
                         <div>
-                            <img src="Kaygo images\Flags icon\flag-round-250 (1).png" style="height:20px;width:20px;"></img>
-                            <a href="" style="color:black;">Ceština</a>
-                        </div>
-
-                        <div>
                             <img src="Kaygo images\Flags icon\India-512.png" style="height:21px;width:21px;"></img>
                             <a href="" style="color:black;">हिंदी</a>
                         </div>
