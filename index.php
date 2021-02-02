@@ -229,11 +229,6 @@ session_start();
                         </div>
 
                         <div>
-                            <img src="Kaygo images\Flags icon\images.png" style="height:20px;width:20px;"></img>
-                            <a href="" style="color:black;">Deutsch</a>
-                        </div>
-
-                        <div>
                             <img src="Kaygo images\Flags icon\Flag_of_Italy_-_Circle-512.png" style="height:20px;width:20px;"></img>
                             <a href="" style="color:black;">Italiano</a>
                         </div>
