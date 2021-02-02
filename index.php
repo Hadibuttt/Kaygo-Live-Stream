@@ -318,7 +318,7 @@ session_start();
                         <button style="font-size:21px;font-family:proxima_nova_ltlight;background-color:gold;color:black;border:1.51px solid 
                     black;"> GET FREE TRIAL NOW </button>
                     </p>
-                    <p style="font-size:16px;text-align:center;">NO SIGN UP NEEDED</p>
+                    <p style="font-size:16px;text-align:center;">NO SIGN UP</p>
 
                 </center>
 
@@ -465,7 +465,7 @@ session_start();
         
 
         <p style="text-align:justify;font-size:18px;font-family:proxima_nova_ltlight;color:darkslategray;word-spacing:1.4px;"> 
-            <big>Welcome to Kaygo Live Stream - the next generation of video dating, for the user who wants to talk online to people they’ve never met, at the push of a button. Innovative video chat rooms let you connect in an instant with girls in their thousands. Make use of free video chat over your webcam, sign-up not required, to chat, flirt and have fun, without any commitments at all. Press the button and enjoy random video chat online with total new people straight away, with great features, plus instant connections with no waiting around. Feel free and secure to find your chat partner and express your feelings. All of this is possible now for absolutely free only on Kaygo Live Stream, established 2018. No Sign up or Registration needed fully operational and secured.</big>
+            <big>Welcome to Kaygo Live Stream - the next generation of video chatting, for the user who wants to talk online to people they’ve never met, at the push of a button. Innovative video chat rooms let you connect in an instant with girls in their thousands. Make use of free video chat over your webcam, sign-up not required, to chat, flirt and have fun, without any commitments at all. Press the button and enjoy random video chat online with total new people straight away, with great features, plus instant connections with no waiting around. Feel free and secure to find your chat partner and express your feelings. All of this is possible now for absolutely free only on Kaygo Live Stream, established 2018. No Sign up or Registration needed fully operational and secured.</big>
         </p>
         
     </div>
