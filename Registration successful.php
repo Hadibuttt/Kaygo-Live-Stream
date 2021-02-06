@@ -17,7 +17,7 @@ a{text-decoration:none;}
 <br>
 <center><big style="color:green;font-size:22px;border:1px solid green;">Registration Successful</big></center>
 <br>
-<center><p style="font-size:19px;">(<a href="index.php" style="color:green;"><b>Click Here</b></a>, to return to the main page. Enter the Registered Email and Password in Sign In option to enhance Kaygo Live Stream features.)</center>
+<center><p style="font-size:19px;">(<a href="index.php" style="color:green;"><b>Click Here</b></a>, to return to the index page. Enter the Registered Email and Password in Sign In option to enhance Kaygo Live Stream features.)</center>
 <br>
 <br>
     <!--Kaygo 3 Images Advertisment-->
