@@ -23,7 +23,7 @@ a{text-decoration:none;}
 <body background="Kaygo images\download.jpg";>
     <br>
     <br>
-    <center><big style="font-size:25px;color:aliceblue;border:1px solid aliceblue;">Please Select Your Gender:</big></center>
+    <center><big style="font-size:25px;color:aliceblue;border:1px solid aliceblue;">Select Your Gender:</big></center>
 <br>
 <br>
 
@@ -50,6 +50,6 @@ a{text-decoration:none;}
 
 </div>
 </div>
-<center><p style="color:white;font-size:18px;">( <a href="index.php"><b>Click here</b></a>, to return back to main page. )</p></center>
+<center><p style="color:white;font-size:18px;">( <a href="index.php"><b>Click here</b></a>, to return back to index page. )</p></center>
 </body>
 </html>
