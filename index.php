@@ -680,9 +680,9 @@ session_start();
 </div>
 
 <!--Blank Space-->        
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
     <br><br>    
-</div>
+</div>-->
 
 
 <!--Kaygo Free Trial Button-->
