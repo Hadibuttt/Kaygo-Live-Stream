@@ -218,10 +218,10 @@ session_start();
                             <a href="" style="color:black;">English</a>
                     </div>
 
-                        <div>
+                        <!---<div>
                             <img src="Kaygo images\Flags icon\China-512.png" style="height:20px;width:20px;"></img>
                             <a href="" style="color:black;">Chinese</a>
-                        </div>
+                        </div>-->
 
                         <div>
                             <img src="Kaygo images\Flags icon\Flag_of_The_United_Arab_Emirates_-_Circle-512.png" style="height:20px;width:20px;"></img>
