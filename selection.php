@@ -50,6 +50,6 @@ a{text-decoration:none;}
 
 </div>
 </div>
-<center><p style="color:white;font-size:18px;">( <a href="index.php"><b>Click here</b></a>, to return back to index page. )</p></center>
+<center><p style="color:white;font-size:18px;">( <a href="index.php"><b>Click here</b></a>, to return back to home page. )</p></center>
 </body>
 </html>
