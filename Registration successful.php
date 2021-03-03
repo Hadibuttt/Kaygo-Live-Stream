@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Kaygo Live Stream</title>
+<title>Kaygo Live Stream | Registration</title>
 <link href="Kaygo images\unnamed.png" rel="icon">
 <link href="bootstrap\css\WBootstrap.css" rel="Stylesheet">
 
